@@ -2,7 +2,7 @@
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sbang002.github.io",
+  "homepage": "https://sbang002.github.io/sehoonbang",
   "dependencies": {
     "create-react-app": "^3.2.0",
     "gh-pages": "^2.1.1",
