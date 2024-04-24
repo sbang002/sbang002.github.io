@@ -5,7 +5,7 @@
   "homepage": "https://sbang002.github.io/sehoonbang",
   "dependencies": {
     "create-react-app": "^3.2.0",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^5.0.0",
     "git": "^0.1.5",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
